@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38256f73-2d88-45df-98b9-9324c3d919dc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams-API.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Stream-API.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,24 +31,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BinaryOperator.executor": "Run",
-    "Application.BinaryOperatorExample.executor": "Run",
-    "Application.ComsumerExample.executor": "Run",
-    "Application.ConsumerExample.executor": "Run",
-    "Application.FunctionExample.executor": "Run",
-    "Application.PredicateExample.executor": "Run",
-    "Application.SupplierExample.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/arcturus/Documentos/Materiais/Documentos/Datalastix/Projetos/github/Stream-API",
-    "onboarding.tips.debug.path": "/home/arcturus/Documentos/Materiais/Documentos/Datalastix/Projetos/github/Streams-API/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BinaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryOperatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComsumerExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsumerExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PredicateExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SupplierExample.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/arcturus/Documentos/Materiais/Documentos/Datalastix/Projetos/github/Stream-API&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/arcturus/Documentos/Materiais/Documentos/Datalastix/Projetos/github/Streams-API/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.BinaryOperatorExample">
     <configuration name="BinaryOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functional_interfaces.examples.examples.BinaryOperatorExample" />
